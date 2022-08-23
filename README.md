@@ -1,6 +1,6 @@
 # Live demo
 
-##### https://expensetrackerreact01.netlify.app/
+##### https://expensetrackerreact01.netlify.app
 
 # Getting Started with Create React App
 
